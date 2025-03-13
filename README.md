@@ -8,7 +8,7 @@ cd lootify
 ```
 ### Git Clone Script
 ```
-git clone https://github.com/isansut/lootify-auto.git
+git clone https://github.com/0xDee-Coder/lootify.git
 cd lootify-auto
 ```
 - Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer
