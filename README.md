@@ -1,14 +1,11 @@
 # lootify
 
 - Bot Auto Spin
-### Create Directory
-```
-mkdir lootify 
-cd lootify
-```
+
 ### Git Clone Script
 ```
 git clone https://github.com/0xDee-Coder/lootify.git
+cd lootify
 ```
 - Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer
 
