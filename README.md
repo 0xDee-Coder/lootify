@@ -11,7 +11,7 @@ cd lootify
 git clone https://github.com/isansut/lootify-auto.git
 cd lootify-auto
 ```
-### edit data.txt ( Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer)
+- edit data.txt ( Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer)
 ```text
 eygaxxxxxxx
 ```
