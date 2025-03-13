@@ -11,10 +11,9 @@ cd lootify
 git clone https://github.com/isansut/lootify-auto.git
 cd lootify-auto
 ```
-- edit data.txt ( Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer)
-```text
-eygaxxxxxxx
-```
+- Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer
+![image](https://github.com/user-attachments/assets/461a56ff-ceb6-4a31-bc3f-d285f22d23fa)
+
 ```bash
 nano token.txt
 ```
