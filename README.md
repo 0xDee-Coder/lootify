@@ -1,33 +1,29 @@
 # lootify
 
-- Connect Wallet
-- Spin Box
-- Play Game
-
 - Bot Auto Spin
-## Create Directory
+### Create Directory
 ```
 mkdir lootify 
 cd lootify
 ```
-## Git Clone Script
+### Git Clone Script
 ```
 git clone https://github.com/isansut/lootify-auto.git
 cd lootify-auto
 ```
-## edit data.txt ( Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer)
+### edit data.txt ( Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer)
 ```text
 eygaxxxxxxx
 ```
 ```bash
 nano token.txt
 ```
-## install module
+### install module
 ```
 npm install axios fs readline
 
 ```
-## Run Bot
+### Run Bot
 ```
 node spinloot.js
 ```
