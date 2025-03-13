@@ -7,7 +7,7 @@
 git clone https://github.com/0xDee-Coder/lootify.git
 cd lootify
 ```
-- Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer
+- Open Website Inspect Element>> Network >> Look for SESSION >> Get Auth Token Bearer Start with ey
 
 ![image](https://github.com/user-attachments/assets/461a56ff-ceb6-4a31-bc3f-d285f22d23fa)
 ### Edit token.txt
